@@ -48,6 +48,6 @@
 *git clean -f: remove untracked files
 *git clean -f -d: remove untracked directories
 *git clone(repository location)(name of the directory): make a clone to the directory of 							the repository we named
-*git push: ask for username of github
+*git push: push it in the Github
 
 
