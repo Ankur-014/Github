@@ -1,0 +1,53 @@
+*git --version: print the version of git
+*git config --global user.name " name": used to set the user name in configuration
+*git config --global user.email " email": used to set the user email in configuration
+*git config --list: return the list of user configuration
+*cat .gitconfig: return the user configuration
+*cd: change directory
+*ls: list in the directory
+*ls -la: full list of the directory including hidden files & also return the including         folder to the list 
+*clear: clear screen
+*git config -- global core.editor "'text editor'-w":set the text editor in the                                                    configuration
+*git help: Show git command
+*git log: show the description what has been commited
+*git init: initialization
+*git add. : add all change in the directory
+*git add "File name with extension": add the changes of the file
+*git commit -m "message":commit a message
+*git status : current situation
+*git diff "File name": show the changes in the file
+*git diff --staged : show the changes in the staging area
+*git diff --cache: show the changs in the cache
+*git rm "File want to delete": Delete file
+*git mv "File name" : move file
+*git checkout --"File name":undo working
+*git reset HEAD "File name": undo staging area
+*git commit --amend -m "message":change previous commit
+*git checkout HashAddress --"File name": Revert the file
+*git revert HashAddress: revert the change in the hash address
+*git reset: targets or resets to previous commit
+*touch "File name": create file
+*vim .gitignore: show editor & to ignore file, must add the ignored file
+*touch .gitkeep: empty directory but want to keep
+*git log --oneline: show all commit one line
+*git commit -am "message": add and commit
+*git branch: show the current brunch(default master)
+*git branch branch_name : creates a new branch
+*git checkout branchname: switched to the branch
+*git checkout -b branchName: at at a time make branch & switched
+*git log --oneline --decorate --all --graph: clear picture of all branches
+*git diff branch1..branch2: compare two branch
+*git diff branch1..branch2: only show the changes word
+*git branch--merged:show the branch if it is merged
+*cat .git/config: see which branch tracking which
+*git branch --move branch renamedbranched: renamed the branch
+*git merge branch_name: merge the branch
+*git branch -d branch_name: safely delete the branch
+*git branch -D branch_name: unsafely the branch
+*mkdir: make directories
+*git clean -f: remove untracked files
+*git clean -f -d: remove untracked directories
+*git clone(repository location)(name of the directory): make a clone to the directory of 							the repository we named
+*git push: ask for username of github
+
+
