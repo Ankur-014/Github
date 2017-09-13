@@ -3,3 +3,7 @@
 	Algorithm Analysis & Design
 	Microprocessors & Microcontrollers
 	Numerical Methods
+
+*Non Departmental
+	Complex Variables,Vector Analysis & Statistics
+	Economics and Accounting
