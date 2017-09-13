@@ -1,0 +1,5 @@
+*Departmental
+	Advanced Programming
+	Algorithm Analysis & Design
+	Microprocessors & Microcontrollers
+	Numerical Methods
